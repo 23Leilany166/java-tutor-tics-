@@ -1,5 +1,5 @@
 package com.ejercicios;
-import java.util.*;
+import java.util.Scanner;
 
 public class Ejemplo1_7 {
     public static double resolver(int A, int B) {
