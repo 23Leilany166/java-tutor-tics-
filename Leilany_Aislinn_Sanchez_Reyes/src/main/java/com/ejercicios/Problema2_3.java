@@ -1,6 +1,7 @@
 // Problema2_3.java
 package com.ejercicios;
-import java.util.*;
+import java.util.Optional;
+import java.util.Scanner;
 
 public class Problema2_3 {
   public static Optional<double[]> raices(double a, double b, double c){
