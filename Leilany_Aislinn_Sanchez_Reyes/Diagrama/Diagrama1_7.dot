@@ -10,7 +10,7 @@ digraph flujo {
 
     entrada [shape=parallelogram, label="A, B", width=3];
 
-    proceso [shape=box, label="RES = (A + B) * 2 / 3", width=4];
+    proceso [shape=box, label="RES = (A + B) ** 2 / 3", width=4];
 
     salida [shape=egg, label="RES", width=3];
 
